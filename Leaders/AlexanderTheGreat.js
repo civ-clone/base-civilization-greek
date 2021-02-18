@@ -8,7 +8,7 @@ class AlexanderTheGreat extends Leader_1.default {
         return Greek_1.default;
     }
     name() {
-        return 'Abraham Lincoln';
+        return 'Alexander the Great';
     }
 }
 exports.AlexanderTheGreat = AlexanderTheGreat;

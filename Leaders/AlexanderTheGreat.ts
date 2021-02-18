@@ -8,7 +8,7 @@ export class AlexanderTheGreat extends Leader {
   }
 
   name(): string {
-    return 'Abraham Lincoln';
+    return 'Alexander the Great';
   }
 }
 
