@@ -1,4 +1,3 @@
 # base-civilization-greek
 
-This is a template repo.
-
+`Greek` `Civilization` class and `Leader`s classes, and `City` names.

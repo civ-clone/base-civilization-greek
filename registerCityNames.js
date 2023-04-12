@@ -64,7 +64,6 @@ const CityNameRegistry_1 = require("@civ-clone/core-civilization/CityNameRegistr
     'Agioi Anargyroi',
     'Argyroupoli',
     'Ano Liosia',
-    'Nea Ionia',
     'Rethymno',
     'Ptolemaida',
     'Tripoli',
